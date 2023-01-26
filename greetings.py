@@ -1,0 +1,1 @@
+print("hi:3 this file was made by shyndali uldana KBTU's 22bd student. enjoy!")
